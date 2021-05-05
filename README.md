@@ -60,10 +60,29 @@
   <summary>:zap: Languages Stats</summary>
 
 
-  <img align="left" alt="NeNtoMid's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nentomid&hide_border=true" />
+  <img align="left" alt="NeNtoMid's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nentomid&hide_border=true&layout=compact" />
 
 
 </details>
+
+### Projects 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=weather_reactjs_app)](https://github.com/NeNtomid)
+
+<a href="https://github.com/NeNtoMid/weather_reactjs_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=weather_reactjs_app" />
+</a>
+<a href="https://github.com/NeNtoMid/quiz_react_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=quiz_react_app" />
+</a>
+<a href="https://github.com/NeNtoMid/shop_dominikptaszek_nodejs_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&shop_dominikptaszek_nodejs_app" />
+</a>
+<a href="https://github.com/NeNtoMid/burger_builder_reactjs_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&burger_builder_reactjs_app" />
+</a>
+<a href="https://github.com/NeNtoMid/calculator_react_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&calculator_react_app" />
+</a>
 
 
 
