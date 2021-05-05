@@ -1,6 +1,5 @@
-## Hi there 👋,  I'm Dominik  and I'm 16 years old. I love programming and sport 
-
-<br/>
+## Hi there 👋,  I'm Dominik  and I'm 16 years old
+##  I love programming and sport
 
 
 ### I'm a Student and Developer!!
