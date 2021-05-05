@@ -75,13 +75,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=quiz_react_app" />
 </a>
 <a href="https://github.com/NeNtoMid/shop_dominikptaszek_nodejs_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&shop_dominikptaszek_nodejs_app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=shop_dominikptaszek_nodejs_app" />
 </a>
 <a href="https://github.com/NeNtoMid/burger_builder_reactjs_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&burger_builder_reactjs_app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=burger_builder_reactjs_app" />
 </a>
 <a href="https://github.com/NeNtoMid/calculator_react_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&calculator_react_app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=calculator_react_app" />
 </a>
 
 
