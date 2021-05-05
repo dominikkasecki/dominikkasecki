@@ -1,6 +1,8 @@
 ## Hi there, I'm Dominik  👋
+
 <br/>
-<br/>
+
+
 ### I'm a Student and Developer!!
 
 - 🔭 I just started my first job at Strona Agency
