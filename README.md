@@ -66,7 +66,7 @@
 </details>
 
 ### Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=weather_reactjs_app)](https://github.com/NeNtomid)
+
 
 <a href="https://github.com/NeNtoMid/weather_reactjs_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=weather_reactjs_app" />
