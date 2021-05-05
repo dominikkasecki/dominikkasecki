@@ -48,18 +48,15 @@
 
   <img align="left" alt="NeNtoMid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nentomid&show_icons=true&hide_border=true" />
 
+<summary>:zap: Languages Stats</summary>
 
 
-</details>
-
-<details>
-  <summary>:zap: Languages Stats</summary>
-
-
-  <img align="left" alt="NeNtoMid's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nentomid&hide_border=true" />
-
+  <img align="right" alt="NeNtoMid's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nentomid&hide_border=true" />
 
 </details>
+   <br/>
+
+
 
 
 
