@@ -1,4 +1,4 @@
-## Hi there 👋,  I'm Dominik  and I'm 16 years old
+## Hi there 👋,  I'm Dominik  and I'm junior front-end developer
 ##  I love programming and sport
 
 
