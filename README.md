@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sport and watching tv shows
-- [<img align="left" alt="NeNtoMid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ➤<a href="https://www.linkedin.com/in/dominik-ptaszek-b5984a210/"> My Linkedin </a>
-
+<!-- - [<img align="left" alt="NeNtoMid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ➤<a href="https://www.linkedin.com/in/dominik-ptaszek-b5984a210/"> My Linkedin </a>
+ -->
 
 
 
