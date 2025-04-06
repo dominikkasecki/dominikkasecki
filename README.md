@@ -1,82 +1,51 @@
-## Hi there 👋,  I'm Dominik  and I'm junior front-end developer
-##  I love programming and sport
+# 👋 Hi, I’m Dominik Kasecki
 
-
-### I'm a Student and Developer!!
-
-- 🔭 I have worked as junior front end developer at Strona Agency
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love  sport and watching tv shows
-<!-- - [<img align="left" alt="NeNtoMid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] ➤<a href="https://www.linkedin.com/in/dominik-ptaszek-b5984a210/"> My Linkedin </a>
- -->
-
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][profile]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][profile]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][profile]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][profile]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][profile]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][profile]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][profile]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][profile]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][profile]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][profile]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][profile]
-
-
-
-<br />
+🎓 AI & Data Science student at Breda University of Applied Sciences  
+📍 Based in the Netherlands | Open to remote and international opportunities  
+🚀 Seeking Internship in **Data Engineering** – Available from **September 2025**
 
 ---
-   
-### Projects 
 
+## 💡 About Me
 
-<a href="https://github.com/NeNtoMid/weather_reactjs_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=weather_reactjs_app" />
-</a>
-<a href="https://github.com/NeNtoMid/quiz_react_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=quiz_react_app" />
-</a>
+I'm an aspiring **Data Engineer** and **AI enthusiast** with a strong foundation in Python, SQL, and modern data pipelines.  
+While I started in front-end development, my focus has evolved into building intelligent, scalable systems that combine clean data handling with real-world ML applications.
 
-<a href="https://github.com/NeNtoMid/burger_builder_reactjs_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=burger_builder_reactjs_app" />
-</a>
-<a href="https://github.com/NeNtoMid/calculator_react_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nentomid&repo=calculator_react_app" />
-</a>
+I enjoy automating workflows, optimizing data structures, and solving problems through hands-on experimentation.  
 
+---
 
+## 🛠️ Skills
 
-<br />
-<br />
+- **Languages & Tools:** Python, SQL, Git, Bash  
+- **Libraries & Frameworks:** Pandas, NumPy, TensorFlow, OpenCV  
+- **Databases:** PostgreSQL, MongoDB  
+- **Other:** Data Visualization, PowerBI, Deep Learning, Machine Learning  
+- **Additional:** Prompt Engineering & AI Workflow Optimization
 
+---
 
+## 📚 Highlight Project
 
+### 🔬 **Plant Root Segmentation & Robotics – NPEC University Project (2024)**  
+Built a computer vision pipeline in Python to segment plant root systems from Petri dish images.  
+Used OpenCV, image preprocessing, and deep learning for multiclass segmentation.  
+Also explored reinforcement learning (Stable-Baselines3) to simulate robotic arm behavior for precise plant treatment.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+*Tools used:* Python, TensorFlow, OpenCV, Stable-Baselines3
 
-  <img align="left" alt="NeNtoMid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nentomid&show_icons=true&hide_border=true" />
+---
 
+## 🌐 CV
 
+- 📄 [View My CV (PDF)](https://drive.google.com/file/d/12NtFgoDSeTc7143txgKrPYTnUASKoIZS/view?usp=sharing)
 
-</details>
+---
 
-<details>
-  <summary>:zap: Languages Stats</summary>
+## 🔄 Previously...
 
+I worked as a **Junior Front-End Developer** using React, Sass, and Next.js, and completed several freelance and academic fullstack projects with Node.js and Express.
 
-  <img align="left" alt="NeNtoMid's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nentomid&hide_border=true&layout=compact" />
+---
 
-
-</details>
-
-
-[profile]:https://github.com/NeNtoMid
-[linkedin]: https://www.linkedin.com/in/dominik-ptaszek-b5984a210
+> Always learning. Always building.
