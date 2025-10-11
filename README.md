@@ -2,7 +2,7 @@
 
 🎓 AI & Data Science student at Breda University of Applied Sciences  
 📍 Based in the Netherlands | Open to remote and international opportunities  
-🚀 Seeking Internship in **Data Engineering** – Available from **September 2025**
+🚀 Seeking **graduation project internship** focused on data engineering, data science, ML systems, or AI automation
 
 ---
 
