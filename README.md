@@ -38,7 +38,7 @@ Also explored reinforcement learning (Stable-Baselines3) to simulate robotic arm
 
 ## 🌐 CV
 
-- 📄 [View My CV (PDF)](https://drive.google.com/file/d/12NtFgoDSeTc7143txgKrPYTnUASKoIZS/view?usp=sharing)
+- 📄 [View My CV (PDF)](https://drive.google.com/file/d/121EghmeX-HVyRFL7jSaprYDdLlYHySKV/view?usp=sharing)
 
 ---
 
